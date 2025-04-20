@@ -4177,3 +4177,80 @@
 [2025-04-20T16:50:13.137+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:50:13.137+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-20T16:50:13.170+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:50:13.170+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
 [2025-04-20T16:50:13.251+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.217 seconds
+[2025-04-20T16:50:43.600+0000] {processor.py:186} INFO - Started process (PID=5371) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:50:43.603+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:50:43.626+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:50:43.625+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:50:43.747+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:50:43.844+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:50:43.843+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:50:43.918+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:50:43.917+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:50:44.001+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.435 seconds
+[2025-04-20T16:51:14.278+0000] {processor.py:186} INFO - Started process (PID=5435) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:51:14.280+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:51:14.287+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:51:14.286+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:51:14.343+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:51:14.392+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:51:14.392+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:51:14.434+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:51:14.434+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:51:14.490+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.229 seconds
+[2025-04-20T16:51:45.552+0000] {processor.py:186} INFO - Started process (PID=5499) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:51:45.557+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:51:45.567+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:51:45.565+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:51:45.658+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:51:45.732+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:51:45.731+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:51:45.809+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:51:45.808+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:51:45.900+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.372 seconds
+[2025-04-20T16:52:16.137+0000] {processor.py:186} INFO - Started process (PID=5562) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:52:16.141+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:52:16.152+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:52:16.150+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:52:16.243+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:52:16.315+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:52:16.314+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:52:16.380+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:52:16.379+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:52:16.465+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.356 seconds
+[2025-04-20T16:52:46.641+0000] {processor.py:186} INFO - Started process (PID=5626) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:52:46.645+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:52:46.657+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:52:46.655+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:52:46.748+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:52:46.835+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:52:46.834+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:52:46.942+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:52:46.941+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:52:47.059+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.449 seconds
+[2025-04-20T16:53:17.295+0000] {processor.py:186} INFO - Started process (PID=5689) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:53:17.300+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:53:17.310+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:53:17.308+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:53:17.406+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:53:17.491+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:53:17.490+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:53:17.567+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:53:17.567+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:53:17.722+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.453 seconds
+[2025-04-20T16:53:48.113+0000] {processor.py:186} INFO - Started process (PID=5759) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:53:48.115+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:53:48.121+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:53:48.120+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:53:48.175+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:53:48.253+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:53:48.252+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:53:48.322+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:53:48.321+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:53:48.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.307 seconds
+[2025-04-20T16:54:18.861+0000] {processor.py:186} INFO - Started process (PID=5823) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:54:18.866+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:54:18.878+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:54:18.877+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:54:18.989+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:54:19.092+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:54:19.089+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:54:19.185+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:54:19.185+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:54:19.290+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.457 seconds
+[2025-04-20T16:54:50.201+0000] {processor.py:186} INFO - Started process (PID=5887) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:54:50.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:54:50.219+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:54:50.217+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:54:50.330+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:54:50.428+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:54:50.426+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:54:50.531+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:54:50.530+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:54:50.642+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.472 seconds
+[2025-04-20T16:55:20.784+0000] {processor.py:186} INFO - Started process (PID=5951) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:55:20.787+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:55:20.795+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:55:20.794+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:55:20.865+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:55:20.915+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:55:20.914+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:55:20.961+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:55:20.960+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:55:21.049+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.285 seconds
+[2025-04-20T16:55:51.288+0000] {processor.py:186} INFO - Started process (PID=6015) to work on /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:55:51.290+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/pipeline_airflow.py for tasks to queue
+[2025-04-20T16:55:51.297+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:55:51.296+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:55:51.348+0000] {processor.py:925} INFO - DAG(s) 'pipeline_vehicules_spark' retrieved from /opt/airflow/dags/pipeline_airflow.py
+[2025-04-20T16:55:51.405+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:55:51.404+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-20T16:55:51.447+0000] {logging_mixin.py:190} INFO - [2025-04-20T16:55:51.447+0000] {dag.py:4180} INFO - Setting next_dagrun for pipeline_vehicules_spark to None, run_after=None
+[2025-04-20T16:55:51.502+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/pipeline_airflow.py took 0.233 seconds
